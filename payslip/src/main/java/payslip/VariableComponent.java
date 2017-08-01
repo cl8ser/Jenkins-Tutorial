@@ -1,7 +1,7 @@
 package payslip;
 
 /*
-* This class prints the given message on console.
+* Gauno
 */
 public class VariableComponent {
 
