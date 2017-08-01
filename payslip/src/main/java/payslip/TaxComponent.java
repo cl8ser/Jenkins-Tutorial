@@ -1,5 +1,7 @@
 package payslip;
 
+//feature 1 changes
+
 public class TaxComponent {
 	
 	   private double tax;
