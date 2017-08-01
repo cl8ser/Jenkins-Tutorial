@@ -3,6 +3,7 @@ package payslip;
 /*
 * Gauno 
 * Another comment
+* Bug in Feature1
 */
 public class VariableComponent {
 
