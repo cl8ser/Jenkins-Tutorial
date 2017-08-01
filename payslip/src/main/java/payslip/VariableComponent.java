@@ -1,7 +1,8 @@
 package payslip;
 
 /*
-* Gauno
+* Gauno 
+* Another comment
 */
 public class VariableComponent {
 
