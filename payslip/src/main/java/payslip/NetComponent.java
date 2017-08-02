@@ -1,5 +1,7 @@
 package payslip;
 
+//ahahhahahhahh
+
 public class NetComponent {
 	
 	   private double netsalary;
