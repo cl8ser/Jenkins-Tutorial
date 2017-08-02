@@ -1,6 +1,7 @@
 package payslip;
 
 //just added new shit
+//just updated
 
 public class FixedComponent {
 	
